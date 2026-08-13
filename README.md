@@ -1,5 +1,5 @@
 # 🌡️🌎 Caderno Temático: EL NIÑO — A FORÇA QUE REDEFINE O CLIMA DA TERRA
-Este projeto de caderno climático dentro do curso de IA da DIO, visa investigar os fenômenos El Niño e Super El Niño. Para isso, reúne fontes científicas, conteúdos em vídeo, um mapa mental, um resumo em vídeo e uma apresentação de slides.
+Este projeto de caderno temático dentro do curso de IA da DIO, visa investigar os fenômenos El Niño e Super El Niño. Para isso, reúne fontes científicas, conteúdos em vídeo, um mapa mental, um resumo em vídeo e uma apresentação de slides.
 - Segue o link para o caderno Temático: [Clique Aqui!](https://notebook.google.com/notebook/c08f1894-7a9a-4c7c-ad89-fbbdb18625bb)
 
 ## 🎯 Contexto e Objetivos
