@@ -3,13 +3,12 @@ Este projeto de caderno climático dentro do curso de IA da DIO, visa investigar
 - Segue o link para o caderno Temático: [Clique Aqui!](https://notebook.google.com/notebook/c08f1894-7a9a-4c7c-ad89-fbbdb18625bb)
 
 ## 🎯 Contexto e Objetivos
-  ### Tema:
-  EL NIÑO — A FORÇA QUE REDEFINE O CLIMA DA TERRA  
+  ### - Tema:  EL NIÑO — A FORÇA QUE REDEFINE O CLIMA DA TERRA  
    
-  ### Contexto:  
+  ### - Contexto:  
   Diante do aumento na frequência e intensidade dos fenômenos climáticos que afetam o planeta, com destaque para o El Niño e, principalmente, o Super El Niño, torna-se essencial compreender sua origem, seu funcionamento e os impactos que provocam sobre o clima, a economia e a sociedade. Esse entendimento é o que possibilita antecipar cenários e planejar medidas preventivas antes que o fenômeno atinja sua fase mais intensa no país.
   
-  ### Objetivos:
+  ### - Objetivos:
   -	Entender o que é esse fenômeno e como ele funciona;
   -	Quais os motivos que influenciam no surgimento do Super El Nino;
   -	Como ele afeta o clima do planeta e principalmente do Brasil;
@@ -60,12 +59,12 @@ Este projeto de caderno climático dentro do curso de IA da DIO, visa investigar
   - **Infraestrutura:** Nossas cidades foram projetadas para o clima de décadas atrás e não possuem capacidade adaptativa para suportar a intensidade das tempestades e secas atuais.
   
 ## 💻 Prompt's Reutilizáveis para Estudo
-  ### De forma sucinta e objetiva, me informa o que é o El Niño e o que implica o surgimento do Super El Niño?\
+  ### - De forma sucinta e objetiva, me informa o que é o El Niño e o que implica o surgimento do Super El Niño?
   &nbsp;&nbsp;O El Niño é a fase quente de um sistema climático natural chamado ENOS, caracterizado pelo aquecimento anômalo das águas superficiais do Oceano Pacífico equatorial. Esse fenômeno ocorre quando os ventos alísios enfraquecem ou mudam de direção, impedindo que a água quente seja empurrada para a Ásia e permitindo que ela se acumule na costa da América do Sul. Essa alteração oceânica redefine os padrões de pressão atmosférica global, deslocando sistemas de chuva e alterando as temperaturas em diversos continentes.\
     O surgimento de um Super El Niño implica que o aquecimento das águas ultrapassou o limiar de 2,0°C acima da média histórica, atingindo a classificação de "muito forte". Para o evento de 2026, isso traz implicações críticas, pois o fenômeno ocorre em um contexto de mudanças climáticas, funcionando como "gasolina em um incêndio" sobre um planeta que já registra temperaturas recordes.
-  ### Quais mudanças o Super El Niño implica nos hábitos do povo brasileiro?\
+  ### - Quais mudanças o Super El Niño implica nos hábitos do povo brasileiro?
   &nbsp;&nbsp;Super El Niño, especialmente com as previsões para 2026, exige mudanças profundas e imediatas nos hábitos e no planejamento do povo brasileiro, afetando desde a saúde respiratória até o orçamento doméstico. Como este evento ocorre em um planeta já aquecido pelas mudanças climáticas, seus impactos são amplificados, transformando o cotidiano de diversas formas.
-  ### Quais setores da economia brasileira serão mais impactados financeiramente?\
+  ### - Quais setores da economia brasileira serão mais impactados financeiramente?
   &nbsp;&nbsp;O fenômeno do Super El Niño de 2026 é descrito como um "multiplicador de custos sistêmicos", cujos impactos financeiros se propagam por diversos setores da economia brasileira, desde a tarifa de energia até o preço dos alimentos no supermercado. Os principais setores afetados financeiramente serão: 
-  ### Me forneça quais seriam principais medidas que o governo federal brasileiro deveria tomar de forma preventiva antes do Super El Nino nos atingir.\
+  ### - Me forneça quais seriam principais medidas que o governo federal brasileiro deveria tomar de forma preventiva antes do Super El Nino nos atingir.
   &nbsp;&nbsp;Para mitigar os impactos do Super El Niño de 2026, o governo federal brasileiro deve adotar uma série de medidas preventivas que integrem planejamento orçamentário, infraestrutura, monitoramento tecnológico e alertas constantes com intuito te proteger a população vulnerável.
