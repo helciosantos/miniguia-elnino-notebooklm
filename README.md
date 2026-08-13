@@ -1,12 +1,12 @@
 # 🌡️🌎 Caderno Temático: EL NIÑO — A FORÇA QUE REDEFINE O CLIMA DA TERRA
-Este projeto de caderno temático dentro do curso de IA da DIO, visa investigar os fenômenos El Niño e Super El Niño, e como eles afetam a população em geral. Para isso, reúne fontes científicas, conteúdos em vídeo, um mapa mental, um resumo em vídeo e uma apresentação de slides.
+&nbsp;&nbsp;Este projeto de caderno temático dentro do curso de IA da DIO, visa investigar os fenômenos El Niño e Super El Niño, e como eles afetam a população em geral. Para isso, reúne fontes científicas, conteúdos em vídeo, um mapa mental, um resumo em vídeo e uma apresentação de slides.
 - Segue o link para o caderno Temático: [Clique Aqui!](https://notebook.google.com/notebook/c08f1894-7a9a-4c7c-ad89-fbbdb18625bb)
 
 ## 🎯 Contexto e Objetivos
   ### - Tema:  EL NIÑO — A FORÇA QUE REDEFINE O CLIMA DA TERRA  
    
   ### - Contexto:  
-  Diante do aumento na frequência e intensidade dos fenômenos climáticos que afetam o planeta, com destaque para o El Niño e, principalmente, o Super El Niño, torna-se essencial compreender sua origem, seu funcionamento e os impactos que provocam sobre o clima, a economia e a sociedade. Esse entendimento é o que possibilita antecipar cenários e planejar medidas preventivas antes que o fenômeno atinja sua fase mais intensa no país.
+&nbsp;&nbsp;Diante do aumento na frequência e intensidade dos fenômenos climáticos que afetam o planeta, com destaque para o El Niño e, principalmente, o Super El Niño, torna-se essencial compreender sua origem, seu funcionamento e os impactos que provocam sobre o clima, a economia e a sociedade. Esse entendimento é o que possibilita antecipar cenários e planejar medidas preventivas antes que o fenômeno atinja sua fase mais intensa no país.
   
   ### - Objetivos:
   -	Entender o que é esse fenômeno e como ele funciona;
@@ -29,15 +29,15 @@ Este projeto de caderno temático dentro do curso de IA da DIO, visa investigar 
 ## 🛠️ Prompt's e Cicatrizes (Troubleshooting):
   1. Prompt inicial para entender de forma geral o tema.
      - "Discorra sobre o El Nino."  
-        Obteve-se uma resposta satisfatória e bem completa, contemplando pontos como: mecanismo do fenômeno, classificação, impactos regionais no Brasil, consequências sócio econômicas e de saúde.
+        &nbsp;&nbsp;Obteve-se uma resposta satisfatória e bem completa, contemplando pontos como: mecanismo do fenômeno, classificação, impactos regionais no Brasil, consequências sócio econômicas e de saúde.
   2. Aprofundamento a fim de compreender como os fenômenos se diferem entre si.
      - "De forma bem didática e direta, caracterize os principais pontos do fenômeno do El Niño e as principais diferenças para o Super El Niño que vem aparecendo em 2026."  
-        Uma pequena falha na instrução dada gerou duplicidade nas respostas, ao perguntar sobre os principais pontos do El Niño padrão pois na resposta anterior, que foi dada de forma bem completa, já havia sido explanado sobre esses pontos.  
+        &nbsp;&nbsp;Uma pequena falha na instrução dada gerou duplicidade nas respostas, ao perguntar sobre os principais pontos do El Niño padrão pois na resposta anterior, que foi dada de forma bem completa, já havia sido explanado sobre esses pontos.  
      - Ajuste no prompt: "De forma bem didática e direta, sinalize as principais diferenças do El Niño para o Super El Niño que vem aparecendo em 2026."  
-        Desta forma elimina-se a duplicidade de respostas e foca na diferença entre o fenômeno que ocorre frequentemente e o fenônemo intensificado.
+        &nbsp;&nbsp;Desta forma elimina-se a duplicidade de respostas e foca na diferença entre o fenômeno que ocorre frequentemente e o fenônemo intensificado.
   3. Entendendo como esse fenômeno influencia na população brasileira.  
      - "Forneça as principais medidas que o governo federal brasileiro deveria tomar de forma preventiva antes do Super El Nino nos atingir."  
-        Para mitigar os impactos do Super El Niño de 2026, o governo federal brasileiro deve adotar uma série de medidas preventivas que integrem planejamento orçamentário e legislativo, infraestrutura, monitoramento tecnológico e alertas para população.
+        &nbsp;&nbsp;Para mitigar os impactos do Super El Niño de 2026, o governo federal brasileiro deve adotar uma série de medidas preventivas que integrem planejamento orçamentário e legislativo, infraestrutura, monitoramento tecnológico e alertas para população.
 
 ## 📝 Miniguia de Estudo
   ### Resumo Estruturado
